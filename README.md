@@ -1,4 +1,4 @@
-# St.Joseph-s-AzureWorkshop-08Feb2025
+# St.Joseph's-AzureWorkshop-08Feb2025
 
 I have attached the slides and script used during the session.
 
